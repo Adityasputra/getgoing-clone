@@ -1,0 +1,52 @@
+[
+  {
+    "country": "Indonesia",
+    "capital": "Jakarta",
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Jakarta_Skyline_Part_2.jpg/1200px-Jakarta_Skyline_Part_2.jpg"
+  },
+  {
+    "country": "France",
+    "capital": "Paris",
+    "photo": "https://cdn1.sisiplus.co.id/media/sisiplus/asset/uploads/artikel/g2OEbKl2aTEIp1x5hFNYEE9ad615uVenBexDAcVW.jpg"
+  },
+  {
+    "country": "Japan",
+    "capital": "Tokyo",
+    "photo": "https://plus.unsplash.com/premium_photo-1661914240950-b0124f20a5c1?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OXx8dG9reW98ZW58MHx8MHx8fDA%3D"
+  },
+  {
+    "country": "Brazil",
+    "capital": "Brasilia",
+    "photo": "https://assets-a1.kompasiana.com/items/album/2019/05/06/brasilia-jpg-5cd0419d6c329d0fb40db432.jpg"
+  },
+  {
+    "country": "Australia",
+    "capital": "Canberra",
+    "photo": "https://canberra.com.au/_next/image?url=https%3A%2F%2Fcms.canberra.com.au%2Fwp-content%2Fuploads%2F2022%2F03%2F2413_actgovt_001.jpg&w=3840&q=75"
+  },
+  {
+    "country": "Canada",
+    "capital": "Ottawa",
+    "photo": "https://travel.destinationcanada.com/_next/image?url=https%3A%2F%2Fadmin.destinationcanada.com%2Fsites%2Fdefault%2Ffiles%2Fimages%2Farticle%2Fchateau_laurier.jpg&w=1920&q=75"
+  },
+  {
+    "country": "Germany",
+    "capital": "Berlin",
+    "photo": "https://img.static-kl.com/images/media/A9EB8D2D-C180-4F6C-877C3D4A44BBFF3F"
+  },
+  {
+    "country": "Italy",
+    "capital": "Rome",
+    "photo": "https://i.natgeofe.com/k/a6c9f195-de20-445d-9d36-745ef56042c5/OG_Colosseum_Ancient-Rome_KIDS_1122_3x2.jpg"
+  },
+  {
+    "country": "India",
+    "capital": "New Delhi",
+    "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/24/03/3f/fd/caption.jpg?w=1400&h=1400&s=1&cx=2294&cy=1952&chk=v1_c3b28b866491ff3722ce"
+  },
+  {
+    "country": "United Kingdom",
+    "capital": "London",
+    "photo": "https://a.travel-assets.com/findyours-php/viewfinder/images/res70/100000/100677-London.jpg"
+  }
+]
